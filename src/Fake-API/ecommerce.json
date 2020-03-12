@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "arioamri",
+      "password": "abc123",
+      "email": "arioamri@gmail.com",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "role": "admin"
+    },
+    {
+      "username": "sadboy",
+      "email": "ddada@gmail.com",
+      "password": "sad",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "username": "dara",
+      "email": "dara@yahoo.com",
+      "password": "dara",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "romy",
+      "email": "romy@anggur",
+      "password": "aaa",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "username": "artur",
+      "email": "artur@yahoo.com",
+      "password": "666",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "username": "dede",
+      "email": "dd",
+      "password": "fuck",
+      "role": "user",
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "name": "Jordan 7 Retro Barcelona Nights",
+      "brand": "Jordan",
+      "price": "1350000",
+      "category": "Women",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS9iMjIwMzUzMC0yNmQwLTQ4NjgtOTVjNS05MzNlZGVhM2UzNzYuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Jordan 1 Retro High Black Crimson Tint",
+      "brand": "Jordan",
+      "price": 2950000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzM0NzQvOTExNWVhOGQtYWEwMC00M2EyLWEyNmItNzgyMGExMDVlMjI1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ=="
+    },
+    {
+      "id": 3,
+      "name": "Air Jordan 1 Low Noble Red",
+      "brand": "Jordan",
+      "price": 1650000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYxODQvNDRjZDU3MWEtMjQ4ZS00MmMyLTk2YmItNzBkOWEwNGNmYjFhLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ=="
+    },
+    {
+      "id": 4,
+      "name": "Jordan 1 Mid Multi Color Swoosh",
+      "brand": "Jordan",
+      "price": 1350000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzYyMjYvODdjNmRkMTktOTAzMS00NmM0LTg2NzItYjRmMWEwZThjM2Q1LmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjUwMH19fQ=="
+    },
+    {
+      "id": 5,
+      "name": "Jordan 7 Retro Barcelona Nights",
+      "brand": "Jordan",
+      "price": 1350000,
+      "category": "Men",
+      "image": "https://d38t85204sb0x0.cloudfront.net/eyJidWNrZXQiOiJraWNrYXZlbnVlLWFzc2V0cyIsImtleSI6InByb2R1Y3RzLzQxMS84NDczZmQwZi1hNTEwLTQxYTMtOTlhYS05NTgyMDg1NjNmNjAuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NTAwfX19"
+    },
+    {
+      "name": "asda",
+      "brand": "da",
+      "price": "677777",
+      "category": "Kids",
+      "image": "https://www.sepatuindonesia.com/html/images/ImageProduct/21296/Sepatu_anak_perempuan_IBM_640.jpg",
+      "id": 9
+    }
+  ]
+}
